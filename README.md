@@ -18,4 +18,4 @@ Analog IC Design - Summer 2021
 - The MATLAB live scripts are in the [ref](./MATLAB_codes).
 - The respective input PWL files are in respective folder (generated uusing MATLAB).
 
-**REPORT :** 
+**REPORT :** Check the PDF file.
